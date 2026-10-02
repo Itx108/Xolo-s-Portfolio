@@ -4,26 +4,23 @@ Personal portfolio for Xolo Dlamini, software developer and founder of Isiphosen
 
 ## Highlights
 
-The portfolio focuses on production-oriented work across:
+The portfolio focuses on production-oriented software development across:
 
 - Full-stack web applications and SaaS products
 - Supabase/PostgreSQL and role-based application workflows
-- Python, data analysis and machine learning
-- Streamlit dashboards and forecasting projects
-- Deployment, PWA/offline support and product maintenance
+- Responsive web interfaces and mobile-ready experiences
+- Authentication, offline/PWA workflows and practical business systems
+- Deployment, debugging, maintenance and product improvement
 
 ## Featured projects
 
 - **CutFlow** — salon and barber operations platform
-- **AquaSafe Durban** — community water-risk analysis and forecasting
 - **EduManage** — school-management system
-- **Employment Trends** — employment analytics and forecasting
 - **Isiphosendalo Solutions** — business website and service workflow
-- **Crime Hotspot Analysis** — applied data science dashboard
 
 ## Stack
 
-HTML, CSS, JavaScript, React, Next.js, Python, Pandas, Streamlit, scikit-learn, Supabase, PostgreSQL, Neon, GitHub and Vercel.
+HTML, CSS, JavaScript, React, Next.js, Python, Supabase, PostgreSQL, Neon, GitHub, Vercel and Capacitor.
 
 ## Local preview
 
